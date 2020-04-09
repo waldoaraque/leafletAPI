@@ -1,2 +1,2 @@
-# leaftletAPI
+# leafletAPI
 API REST wit leaftlet 
